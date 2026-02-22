@@ -8,9 +8,7 @@ export const ADMIN_PIN = '2026';
 
 // Schnelleintrag-Vorlagen
 export const QUICK_TEMPLATES = [
-  { label: 'Frühdienst 6–14', start: '06:00', end: '14:00', pause: '0:30' },
-  { label: 'Normaltag 7–16', start: '07:00', end: '16:00', pause: '0:45' },
-  { label: 'Spätdienst 10–18:30', start: '10:00', end: '18:30', pause: '0:30' },
+  { label: 'Normaltag 7–16', start: '07:00', end: '16:00', pause: '1:00' },
   { label: 'Halber Tag 7–12', start: '07:00', end: '12:00', pause: '0:00' },
 ];
 
